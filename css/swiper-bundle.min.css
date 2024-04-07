@@ -339,7 +339,7 @@
 }
 .swiper-button-prev:after,
 .swiper-rtl .swiper-button-next:after {
-  content: url('/img/prev.svg');
+  content: url(../img/prev.svg);
 }
 .swiper-button-next,
 .swiper-rtl .swiper-button-prev {
@@ -348,17 +348,17 @@
 }
 .swiper-button-next:after,
 .swiper-rtl .swiper-button-prev:after {
-  content: url(/img/next.svg);
+  content: url(../img/next.svg);
 }
 
 .order-button-prev:after,
 .swiper-rtl .order-button-next:after {
-  content: url(/img/miniBtnSliderPrev.svg);
+  content: url(../img/miniBtnSliderPrev.svg);
 }
 
 .order-button-next:after,
 .swiper-rtl .order-button-prev:after {
-  content: url(/img/miniBtnSliderNext.svg);
+  content: url(../img/miniBtnSliderNext.svg);
 }
 
 .order-button-next {
