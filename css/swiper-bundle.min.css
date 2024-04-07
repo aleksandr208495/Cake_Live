@@ -339,7 +339,7 @@
 }
 .swiper-button-prev:after,
 .swiper-rtl .swiper-button-next:after {
-  content: url(/img/prev.svg);
+  content: url('/img/prev.svg');
 }
 .swiper-button-next,
 .swiper-rtl .swiper-button-prev {
