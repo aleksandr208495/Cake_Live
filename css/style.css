@@ -36,6 +36,7 @@
   --blockBgColor: #ffc0cb;
 }
 
+
 /* сброс стилей по умолчанию */
 
 * {
@@ -114,6 +115,19 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
+
+}
+.up {
+  padding: 20px;
+  background-color: #9e5c68;
+  border-radius: 15px;
+  bottom: 40px;
+  right: 40px;
+  position: fixed;
+}
+.up:hover {
+color: #fff;
 }
 
 header {
